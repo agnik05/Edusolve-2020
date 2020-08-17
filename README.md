@@ -1,13 +1,13 @@
 # TabDrive
 
-## Note
-The repository was created 1 week ago, however the project itself was made starting Saturday. 
-
 ## Demo
 https://1drv.ms/v/s!AhgwwDStSlSYgoICoVFECmNQlxxhig
 
 ## Inspiration
 Distracted driving is the biggest contributor to car accidents, a problem that affects over 60 million people annually. By addressing distracted driving, we will save billions of dollars, countless hours of time, and thousands of lives.
+
+## About The Developers
+Both Shreeniket and Agnik are 14 year old high schoolers with a passion for CS.
 
 ## What It Does
 Our app, DriveSafe, alerts drivers if they are practicing bad driving habits, like reaching backseat, drinking, operating the radio, etc. For best use, the phone should be attached to the car's ventilator using a car vent phone holder. Whenever a driver is doing something unsafe, the app alarts them through a text-to-speech. Our app also has a quiz feature that drivers can take before getting in the car to make sure they're fully sober and not distracted.
@@ -26,3 +26,6 @@ We learned how to export Tensorflow models to XCode and implement VR tools in iO
 
 ## What's Next For DriveSafe
 Hopefully larger distracted driving datasets will be created, so we can retrain our model and classify a wider variety of bad driving habits. We also plan on improving the user interface to make it more aesthetically pleasing for our users.
+
+## Note
+The repository was created 1 week ago, however the project itself was made starting Saturday. 
